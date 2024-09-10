@@ -230,7 +230,7 @@ RSZcalculat(iglobal)=10*log10(PsMinitial/Pzgomot)
 %END FOR
 %end
 
-%verificare calitativ? a bitilor eronati
+%verificare calitativa a bitilor eronati
 err1=sm1-sdRSI;
 err2=sm2-sdRSQ;
 
