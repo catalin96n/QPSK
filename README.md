@@ -8,7 +8,7 @@ project title (EN): _Digital telecommunications system using QPSK modulation_
 
 ## Info
 
-projecy language: romanian  
+project language: romanian  
 author: Necula Cătălin  
 year: 2019  
 software: MATLAB 8.5.0.197613 (R2015a)  
