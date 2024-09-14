@@ -1,6 +1,8 @@
-# QPSK
-project title (RO): _Sistem digital de telecomunicație utilizând modulația QPSK_  
-project title (EN): _Digital telecommunications system using QPSK modulation_  
+# QPSK modulation
+project title (RO): _Sistem digital de telecomunicație utilizând modulația QPSK*_  
+project title (EN): _Digital telecommunications system using QPSK* modulation_ 
+
+<sup><sub>QPSK = quadtarure phase-shift keying</sub></sup>
 ## Objectives
 - visualization and understanding of QPSK modulation and demodulation
 - understanding how noise, bitrate and signal frequency affect the quality of the communication in QPSK systems
